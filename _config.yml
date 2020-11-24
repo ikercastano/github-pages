@@ -1,12 +1,12 @@
-title: Fuera de juego
-author: ikercastano
+title: Portafolio de Iker Castaño
+author: Iker Castano Cabello
 email: iker.castano@opendeusto.es
 description: > # this means to ignore newlines until "baseurl:"
   Hola soy Iker y me gusta el deporte. Además quiero aprender mucho.
 
 # social links
-twitter_username: tu-usuario-twitter # NO incluyas el carácter @ character, ¡o la compilación fallará!
-github_username:  tu-usuario-github # NO incluyas el carácter @ character, ¡o la compilación fallará!
+twitter_username: ikercasta_
+github_username:  iker.castano
 
-show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
+show_excerpts: false
 theme: minima
