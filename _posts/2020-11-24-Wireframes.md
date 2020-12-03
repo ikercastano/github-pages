@@ -6,7 +6,7 @@ date: 2020-11-24
 
 Un website wireframe es un "esquema de página" o "plano de pantalla", es una guía visual que representa la estructura visual de un sitio web. El wireframe esquematiza el ordenamiento del contenido del sitio web (con elementos de la interfaz y sistemas de navegación).
 
-![Uhbcuebveb ihbcebuiebl](/img/1_c6wJ_peW0Tr2baN-P2zmoA.png) 
+![Uhbcuebveb ihbcebuiebl](/img/Profilewireframe.png) 
 
 Se enfocan en “qué hace la pantalla, no cómo se ve.” (con lápiz y papel o esquemas en una pizarra). Los wireframes se enfocan en:
 

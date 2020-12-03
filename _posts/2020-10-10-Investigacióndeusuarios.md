@@ -12,6 +12,8 @@ La investigación de usuarios es uno de los procesos más complejos y a la vez m
 4. Dirigir el proceso. Recolección los datos a través de los métodos que hemos elegido. Los datos explican qué y cuándo los usuarios hacen cosas, pero no por qué. El contexto es importante. 
 5. Completar la síntesis. Responder a las preguntas de nuestra investigación, y probar o desechar nuestras hipótesis. 
 
+![Espiral de aprendizaje de la investigación](/img/25862171602_34592c335d_b.png) 
+
 Se trata de un proceso que da importancia a la planificación y la formulación de objetivos de investigación, y los integra como parte de la investigación misma. 
 
 * Tipos de investigación de usuarios enfocados a diseño de UX 

@@ -7,6 +7,9 @@ date: 2020-10-27
 El card sorting es una técnica de diseño centrado en las personas que permite explorar cómo agrupan los usuarios la información, cómo relacionan conceptos y cuál es su percepción respecto a las etiquetas del
 producto. Su objetivo es analizar los modelos mentales de los usuarios para saber cuál es la manera óptima de estructurar y etiquetar la información y, de este modo, facilitar que encuentren lo que buscan cuando utilicen el producto.
 
+![Card Sorting](/img/1_c6wJ_peW0Tr2baN-P2zmoA.png) 
+
+
 Existen dos tipos de card sorting:
 
 - Cerrado: su objetivo es ordenar la información en base a una categorización existente. Los usuarios deben agrupar la información de las distintas tarjetas en categorías predefinidas.
@@ -63,3 +66,6 @@ En función del proyecto, para obtener resultados representativos hace falta un 
 Hay que ser riguroso en el análisis de los datos recogidos.
 
 No se puede definir toda la arquitectura de la información solo a partir de la realización de un card sorting, es necesario tener en cuenta otros aspectos, como la definición estratégica del proyecto o los objetivos de negocio.
+
+![Estrategia de contenidos](/img/estrategia-de-contenidos-digitales.png) 
+

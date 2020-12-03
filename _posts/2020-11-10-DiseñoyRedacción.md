@@ -77,3 +77,5 @@ Jakob Nielsen ha demostrado que el lenguaje escaneable, conciso y objetivo mejor
 La estructura y el estilo claros del enfoque multinivel invita tanto a la prueba como a la edición. Al igual que con cualquier artículo, es necesario editar el escrito en sí. Más interesante es el concepto de probar la legibilidad de su escritura en cada nivel de interés .
 
 Se han definido claramente los diferentes niveles de interés del lector. Probar la legibilidad en cada nivel es simple. Comenzando con el título, lea el artículo en cada nivel de interés. 
+
+![Diseño de la web](/img/mobile-web.png) 
