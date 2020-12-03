@@ -8,15 +8,15 @@ date: 2020-10-10
 
 La _“Espiral de aprendizaje de la investigación”_ (Research Learning Spiral, en inglés) la dividen en cinco pasos:
 
-1. Identificar objetivos. Las cinco preguntas típicas, objetivos que nos ayudan a definir la base demográfica de los usuarios (actividades realizadas, cuándo, etc) 
+1. **Identificar objetivos.** Las cinco preguntas típicas, objetivos que nos ayudan a definir la base demográfica de los usuarios (actividades realizadas, cuándo, etc) 
 
-2. Trabajar con hipótesis.  ¿Cuáles son las asunciones de nuestro equipo? Sobre nuestros usuarios, sus conductas y nuestras potenciales soluciones a sus necesidades.
+2. **Trabajar con hipótesis.**  ¿Cuáles son las asunciones de nuestro equipo? Sobre nuestros usuarios, sus conductas y nuestras potenciales soluciones a sus necesidades.
 
-3. Aplicar metodologías. ¿Qué métodos debemos seleccionar? En cuánto al tiempo y la gente (investigación contextual, encuestas o entrevistas) 
+3. **Aplicar metodologías.** ¿Qué métodos debemos seleccionar? En cuánto al tiempo y la gente (investigación contextual, encuestas o entrevistas) 
 
-4. Dirigir el proceso. Recolección los datos a través de los métodos que hemos elegido. Los datos explican qué y cuándo los usuarios hacen cosas, pero no por qué. El contexto es importante. 
+4. **Dirigir el proceso.** Recolección los datos a través de los métodos que hemos elegido. Los datos explican qué y cuándo los usuarios hacen cosas, pero no por qué. El contexto es importante. 
 
-5. Completar la síntesis. Responder a las preguntas de nuestra investigación, y probar o desechar nuestras hipótesis. 
+5. **Completar la síntesis.** Responder a las preguntas de nuestra investigación, y probar o desechar nuestras hipótesis. 
 
 ![Espiral de aprendizaje de la investigación](/img/25862171602_34592c335d_b.jpg)  
 
