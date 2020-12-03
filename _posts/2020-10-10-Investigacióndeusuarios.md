@@ -6,7 +6,7 @@ date: 2020-10-10
 
 # La investigación de usuarios es uno de los procesos más complejos y a la vez más importantes para el éxito de un proyecto de Diseño Centrado en el Usuario. Resulta complejo seguir una metodología de investigación para alcanzar resultados. 
 
-La “Espiral de aprendizaje de la investigación” (Research Learning Spiral, en inglés) la dividen en cinco pasos:
+La _“Espiral de aprendizaje de la investigación”_ (Research Learning Spiral, en inglés) la dividen en cinco pasos:
 
 1. Identificar objetivos. Las cinco preguntas típicas, objetivos que nos ayudan a definir la base demográfica de los usuarios (actividades realizadas, cuándo, etc) 
 
@@ -20,7 +20,7 @@ La “Espiral de aprendizaje de la investigación” (Research Learning Spiral, 
 
 ![Espiral de aprendizaje de la investigación](/img/25862171602_34592c335d_b.jpg)  
 
-Se trata de un proceso que da importancia a la planificación y la formulación de objetivos de investigación, y los integra como parte de la investigación misma. 
+**Se trata de un proceso que da importancia a la planificación y la formulación de objetivos de investigación, y los integra como parte de la investigación misma.** 
 
 # Tipos de investigación de usuarios enfocados a diseño de UX 
 

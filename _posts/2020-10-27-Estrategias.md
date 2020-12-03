@@ -11,24 +11,24 @@ date: 2020-10-27
 
 Existen dos tipos de card sorting:
 
-1. Cerrado: su objetivo es ordenar la información en base a una categorización existente. Los usuarios deben agrupar la información de las distintas tarjetas en categorías predefinidas.
+1. **Cerrado**: su objetivo es ordenar la información en base a una categorización existente. Los usuarios deben agrupar la información de las distintas tarjetas en categorías predefinidas.
 
-2. Abierto: no existen categorías predefinidas, por lo que los usuarios han de agrupar las tarjetas en tantas categorías como consideren adecuadas y, además, también deben poner nombre a cada una de ellas.
+2. **Abierto**: no existen categorías predefinidas, por lo que los usuarios han de agrupar las tarjetas en tantas categorías como consideren adecuadas y, además, también deben poner nombre a cada una de ellas.
 
-Es un método muy útil para definir la arquitectura de la información de un producto interactivo. Para definir los sistemas de organización y etiquetado:
+**Es un método muy útil para definir la arquitectura de la información de un producto interactivo.** Para definir los sistemas de organización y etiquetado:
 
-- Sistema de organización: permite entender cuáles son los esquemas más adecuados de organización de la información para estructurar menús de navegación, árboles o mapas de contenidos.
+- _Sistema de organización_: permite entender cuáles son los esquemas más adecuados de organización de la información para estructurar menús de navegación, árboles o mapas de contenidos.
 
-- Sistema de etiquetado: permite validar la terminología o definirla de cero para que los usuarios reconozcan y entiendan las etiquetas utilizadas para nombrar contenidos.
+- _Sistema de etiquetado_: permite validar la terminología o definirla de cero para que los usuarios reconozcan y entiendan las etiquetas utilizadas para nombrar contenidos.
 
 El card sorting permite que la arquitectura de la información se sustente en los modelos mentales
 de los usuarios y, por tanto, contribuye en última instancia a incrementar su usabilidad.
 
-1. Material: tarjetas de papel, rotulador.
+1. **Material**: tarjetas de papel, rotulador.
 
-2. Espacio: mesa grande para organizar las tarjetas o corcho en la pared para colgarlas.
+2. **Espacio**: mesa grande para organizar las tarjetas o corcho en la pared para colgarlas.
 
-3. Herramientas: también se puede llevar a cabo en línea con un software
+3. **Herramientas**: también se puede llevar a cabo en línea con un software
 específico.
 
 # ¿Cuándo?
@@ -61,7 +61,7 @@ Es una técnica rápida, económica y fiable:
 
 Garantiza que la arquitectura de la información del producto se base en los modelos mentales de los usuarios 
 
-Permite obtener información cualitativa sobre la percepción de los usuarios.
+_Permite obtener información cualitativa sobre la percepción de los usuarios._
 
 
 # Inconvenientes
@@ -70,7 +70,7 @@ En función del proyecto, para obtener resultados representativos hace falta un 
 
 Hay que ser riguroso en el análisis de los datos recogidos.
 
-No se puede definir toda la arquitectura de la información solo a partir de la realización de un card sorting, es necesario tener en cuenta otros aspectos, como la definición estratégica del proyecto o los objetivos de negocio.
+_No se puede definir toda la arquitectura de la información solo a partir de la realización de un card sorting, es necesario tener en cuenta otros aspectos, como la definición estratégica del proyecto o los objetivos de negocio._
 
 ![Estrategia de contenidos](/img/estrategia-de-contenidos-digitales.png) 
 

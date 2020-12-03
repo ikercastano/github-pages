@@ -6,7 +6,8 @@ date: 2020-09-29
 
 # The Lean UX Canvas es un proceso para ayudar a los equipos a enmarcar su trabajo como un problema comercial (en lugar de una solución) a resolver. Luego, analizarlo en sus supuestos centrales: Hipótesis. Finalmente diseñamos experimentos para probar nuestras hipótesis más riesgosas.
 
-Propósitos: 
+**Propósitos:** 
+
 1. Es una herramienta de facilitación para equipos multifuncionales diseñada para crear una conversación centrada en el cliente sobre el trabajo de equipo
 
 2. Objetivo: ayudar al equipo a centrarse "por qué" hacen el trabajo actual
@@ -20,18 +21,19 @@ Propósitos:
 6. Es un primer paso en el cambio de conversación de productos a los resultados (sirve de un borrador claro y ordenado) 
 
 # 8 pasos (cuadro que te ayuda a seguir todos los pasos necesarios y te ayudan a resolver y no salirte del orden) 
-1. Problema empresarial: qué ha cambiado (instrucciones y sugerencias) y porqué ha cambiado (lo que ha cambiado de otros años) 
 
-2. Resultados comerciales: qué ha cambiado (detalles sobre lo que debería ser un buen resultado) y porqué ha cambiado (datos de audiencia) 
+1. **Problema empresarial**: qué ha cambiado (instrucciones y sugerencias) y porqué ha cambiado (lo que ha cambiado de otros años) 
 
-3. Usuarios: tipo de público al que va dirigido
+2. **Resultados comerciales**: qué ha cambiado (detalles sobre lo que debería ser un buen resultado) y porqué ha cambiado (datos de audiencia) 
 
-4. Resultados y beneficios para el usuario: beneficios que tiene el usuario (que van aprender nuevo)
+3. **Usuarios**: tipo de público al que va dirigido
 
-5. Soluciones: facilidades al usuario, trabajo ordenado que no haya hipervínculos
+4. **Resultados y beneficios para el usuario**: beneficios que tiene el usuario (que van aprender nuevo)
 
-6. Hipótesis: porcentajes, aproximaciones, etc
+5. **Soluciones**: facilidades al usuario, trabajo ordenado que no haya hipervínculos
 
-7. ¿Qué es lo más importante que debemos aprender primero?: que puede salir mal a que los usuarios no les quite
+6. **Hipótesis**: porcentajes, aproximaciones, etc
 
-8. ¿Cúal es la menor cantidad de trabajo para aprender la siguiente cosa más importante?: experiencia del usuario
+7. **¿Qué es lo más importante que debemos aprender primero?**: que puede salir mal a que los usuarios no les quite
+
+8. **¿Cúal es la menor cantidad de trabajo para aprender la siguiente cosa más importante?**: experiencia del usuario
